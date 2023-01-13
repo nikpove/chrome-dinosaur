@@ -19,6 +19,6 @@ int main(int argc, char **argv) {
 	curs_set(FALSE);
 	startMenu();
 	endwin();
-
+    //SONOILMIGLIOREDISEMPRE
     return 0;
 }
